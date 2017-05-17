@@ -19,6 +19,7 @@ public class AjedrezUtilsTest {
 								};
 		
 		
+		
 		String resultadoBuscado = "+---+---+---+---+---+---+---+---+ \n" +
 								  "| T | H | A | Q | K | A | H | T | \n" +
 								  "+---+---+---+---+---+---+---+---+ \n" +
