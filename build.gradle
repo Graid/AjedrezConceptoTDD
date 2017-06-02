@@ -27,3 +27,16 @@ dependencies {
     testImplementation 'junit:junit:4.12'
 }
 
+sourceSets {
+    main {
+        java {
+            srcDirs = ['src/main/java']
+        }
+        resources {
+            srcDirs = ['src/main/resources']
+        }
+        test {
+        	srcDirs = ['src/test/java']
+        }
+    }
+}
