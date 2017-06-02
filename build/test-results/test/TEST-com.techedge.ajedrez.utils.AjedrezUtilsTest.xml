@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.techedge.ajedrez.utils.AjedrezUtilsTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-06-02T07:47:38" hostname="MADNB2950" time="0.015">
+  <properties/>
+  <testcase name="testPintarTableroEmpezado" classname="com.techedge.ajedrez.utils.AjedrezUtilsTest" time="0.01"/>
+  <testcase name="testPintarTableroNuevo" classname="com.techedge.ajedrez.utils.AjedrezUtilsTest" time="0.003"/>
+  <system-out><![CDATA[+---+---+---+---+---+---+---+---+ 
+| T | H | A | Q | K | A | H | T | 
++---+---+---+---+---+---+---+---+ 
+| P | P | P | P | P | P | P | P | 
++---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 
++---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 
++---+---+---+---+---+---+---+---+ 
+|   |   |   |   | P |   |   |   | 
++---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 
++---+---+---+---+---+---+---+---+ 
+| P | P | P | P |   | P | P | P | 
++---+---+---+---+---+---+---+---+ 
+| T | H | A | K | Q | A | H | T | 
++---+---+---+---+---+---+---+---+ 
+
++---+---+---+---+---+---+---+---+ 
+| T | H | A | Q | K | A | H | T | 
++---+---+---+---+---+---+---+---+ 
+| P | P | P | P | P | P | P | P | 
++---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 
++---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 
++---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 
++---+---+---+---+---+---+---+---+ 
+|   |   |   |   |   |   |   |   | 
++---+---+---+---+---+---+---+---+ 
+| P | P | P | P | P | P | P | P | 
++---+---+---+---+---+---+---+---+ 
+| T | H | A | K | Q | A | H | T | 
++---+---+---+---+---+---+---+---+ 
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
